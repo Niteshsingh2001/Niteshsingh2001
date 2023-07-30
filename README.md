@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niteshsingh2001
-- 👀 I’m interested in game development and web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ni30singh420@gmail.com
